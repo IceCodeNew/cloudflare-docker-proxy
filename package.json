@@ -11,10 +11,10 @@
     "safe-buffer": "npm:@nolyfill/safe-buffer@^1"
   },
   "devDependencies": {
-    "prettier": "^2.4.1",
+    "prettier": "^3.6.0",
     "webpack": "^5.65.0",
-    "webpack-cli": "^4.9.1",
-    "wrangler": "^3.36.0"
+    "webpack-cli": "^6.0.1",
+    "wrangler": "^4.20.5"
   },
   "scripts": {
     "format": "prettier --write '**/*.{js,css,json,md}'",
